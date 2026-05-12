@@ -1,0 +1,1 @@
+<img height="250px" src="https://media3.giphy.com/media/v1.Y2lkPWZjZGU1NDk1eWRwb2tmbm12Nnpyem9udW5keHdrd3A1MDRudzcyZGNpZ2lhaWdhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j07PzONYSgvH20nx9Z/giphy.gif" width="250px" itemtype="http://schema.skype.com/Giphy" key="gif_0">
